@@ -11,6 +11,6 @@ class Solution {
             n--;
         }
        
-        System.out.println(s);
+       
     }
 }
