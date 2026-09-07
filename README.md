@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ayush12313065/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Ayush12313065/Leetcode/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush12313065/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush12313065/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush12313065/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayush12313065/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ayush12313065/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ayush12313065/Leetcode/tree/master/0877-stone-game) |
 | [0935-knight-dialer](https://github.com/Ayush12313065/Leetcode/tree/master/0935-knight-dialer) |
+| [0940-distinct-subsequences-ii](https://github.com/Ayush12313065/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
